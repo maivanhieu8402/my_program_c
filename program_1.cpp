@@ -1,3 +1,4 @@
+//tính chu vi hình cầu khi biết diện tích của nó. biết pi = 3.141593
 #include<stdio.h>
 #include<math.h>
 #define pi 3.141593
